@@ -1,4 +1,10 @@
-⚡ Olá!, Sou Lucas Calvo! Analista de Infraestrutura e DevOps 👋
+Olá!, Sou Lucas Calvo! Analista de Infraestrutura e DevOps ⚡ 
+
+Já fui Desenvolvedor Front-End ⚡ 
+
+Juntei Dev com Infra e fui para DevOps ⚡ 
+
+Infra as a Code \O/
 
 ##
 
